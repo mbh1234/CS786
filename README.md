@@ -3,18 +3,6 @@ This repository contains the implementation of a CS786 assignment focused on rep
 
 ---
 
-#### **Repository Structure**
-```
-├── CS786_A3_Q1_Q2.ipynb     # Implementation for Q1 and Q2
-├── Q3/
-│   ├── CS786_A3_Q3.ipynb    # Implementation for Q3 (Proximity principle)
-│   ├── dataset/             # Synthetic dataset for proximity experiments
-├── CS786_A3_Q4.ipynb        # Implementation for Q4 (Closure principle)
-└── README.md                # Project documentation
-```
-
----
-
 #### **Tasks and Descriptions**
 
 1. **Q1: Study Design Reproduction with Inception v4**
