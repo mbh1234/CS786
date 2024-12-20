@@ -59,5 +59,3 @@ This repository contains the implementation of a CS786 assignment focused on rep
 
 #### **Acknowledgements**
 This project is based on the Yan & Zhou (2017) paper and builds upon the datasets and code provided by the authors.
-
-For any queries, contact [Your Name/Email].
